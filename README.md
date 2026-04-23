@@ -52,13 +52,16 @@ DonateEase introduces:
 Social Innovation → Bridges gap between donors and NGOs
 Process Innovation → Streamlined donation lifecycle
 Technological Innovation → Digitizes traditional donation methods
+
 📈 Value Created
 For Donors
 Easy donation process
 Transparency and trust
+
 For NGOs
 Better planning and resource management
 Increased reach
+
 For Society
 Reduced inequality
 Better access to essential items
@@ -68,6 +71,7 @@ Real-time donation tracking
 Mobile application
 Notification system
 AI-based matching of donations to needs
+
 👥 Team Members
 Harshita
 Shreya Phadke
